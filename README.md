@@ -3,8 +3,8 @@
 <h1 align="center">Hi Welcome To My Git Hub Profile 🖐️</h1>
 
 ###
-<h3 align="center">My Skills:</h3>
-
+<h3 align="center">My Skills :</h3>
+<br clear="both">
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
   <img width="12" />
@@ -27,6 +27,9 @@
 
 ###
 
+
+<h3 align="center">My Social media :</h3>
+<br clear="both">
 <div align="center">
   <a href="https://wa.me/6283174971993?text=Halo%20Zidan" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
