@@ -1,6 +1,7 @@
 <br clear="both">
 
 <h1 align="center">Hi Welcome To My Git Hub Profile 🖐️</h1>
+<h3 align="center">I am Zidan Mubarok</h3>
 
 ###
 <h3 align="center">My Skills :</h3>
