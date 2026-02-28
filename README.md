@@ -27,8 +27,6 @@
 </div>
 
 ###
-
-
 <h3 align="center">My Social media :</h3>
 <br clear="both">
 <div align="center">
