@@ -1,4 +1,3 @@
-```html
 <div align="center">
 
   <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0F172A,50:312E81,100:06B6D4&text=Zidan%20Mubarok&fontColor=FFFFFF&fontSize=48&fontAlignY=45&desc=Web%20Developer%20%7C%20AI%20Developer&descAlignY=65&descSize=17&animation=fadeIn" width="100%" alt="Zidan Mubarok profile banner"/>
@@ -121,4 +120,3 @@ the potential of Artificial Intelligence.
   <sub>Building today. Learning every day. Creating for tomorrow.</sub>
 
 </div>
-```
