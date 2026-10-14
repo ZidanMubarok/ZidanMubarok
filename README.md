@@ -5,7 +5,7 @@
   <h3>Building Web Experiences & Exploring Artificial Intelligence</h3>
 
   <p>
-    Web Developer | AI Enthusiast | Programmer
+    Web Developer | Beck End | Programmer
   </p>
 
   <p>
@@ -27,12 +27,10 @@
 ## 👨‍💻 About Me
 
 Hi! I'm **Zidan Mubarok**, a programmer and web developer
-interested in building useful digital products and exploring
-the potential of Artificial Intelligence.
+interested in building useful digital products.
 
 - 💻 Focused on web development and application engineering.
 - ⚙️ Working with frontend and backend technologies.
-- 🤖 Interested in AI development and emerging technologies.
 - 🚀 Always learning, experimenting, and improving my skills.
 - 🌐 Portfolio: [zidanmubarok.github.io](https://zidanmubarok.github.io)
 
