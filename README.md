@@ -6,7 +6,7 @@
   <h3>Building Web Experiences</h3>
 
   <p>
-    Web Developer | Beck End | Programmer
+    Web Developer | Beck End
   </p>
 
   <p>
